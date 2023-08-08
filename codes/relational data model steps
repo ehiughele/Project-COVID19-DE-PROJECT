@@ -1,0 +1,7 @@
+relational data model
+connect to athena and query data
+etl job in python
+save result to s3
+glue deployment
+build tables on redshift
+copy data to redshift
